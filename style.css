@@ -1,8 +1,17 @@
 .feature {
 	margin: 20px;
-	width: 100%;
+	width: 50%;
+	padding-right: 50px;
 }
 .source {
-	font-size: 9px;
+	font-size: 10px;
 	font-style: italic;
+}
+.article pic {
+	margin: 50px;
+	width: 70%;
+}
+#content {
+	margin: 0 auto;
+	width: 700px;
 }
