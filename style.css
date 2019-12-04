@@ -1,7 +1,5 @@
 .feature {
-	margin: 20px;
-	width: 100%;
-	padding-right: 50px;
+
 }
 .source {
 	font-size: 10px;
@@ -18,4 +16,11 @@
 .chart {
 	margin: 20px;
 	width: 100%;
+}
+h1 {
+	font-size: 50px;
+	font-family: serif;
+}
+#byline {
+	font-style: italic;
 }
