@@ -1,6 +1,6 @@
 .feature {
 	margin: 20px;
-	width: 50%;
+	width: 100%;
 	padding-right: 50px;
 }
 .source {
@@ -14,4 +14,8 @@
 #content {
 	margin: 0 auto;
 	width: 700px;
+}
+.chart {
+	margin: 20px;
+	width: 100%;
 }
