@@ -26,14 +26,14 @@ h1 {
 	font-style: italic;
 }
 blockquote {
-font-size: 20px;
+font-size: 25px;
 font-family: Helvetica, Arial, sans-serif;
 font-style: italic;
 margin-top: 15px;
 margin-bottom: 15px;
-color: #E1A000;
+color: #0D0C63;
 margin-left: 50px;
 padding-left: 15px;
-border-right: 8px solid #E1A000;
-border-left: 8px solid #E1A000;
+border-right: 10px solid #0D0C63;
+border-left: 10px solid #0D0C63;
 }
