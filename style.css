@@ -44,3 +44,8 @@ border-left: 10px solid #4F1001;
 i {
 	font-style: italic;
 }
+.link {
+	font-style: italic;
+	font-size: 15px;
+	font-weight: bold;
+}
