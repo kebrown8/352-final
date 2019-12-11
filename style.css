@@ -8,7 +8,11 @@
 }
 .article pic {
 	margin: 50px;
-	width: 70%;
+	width: 100%;
+}
+.pic {
+	margin: 20px;
+	width: 50%;
 }
 #content {
 	margin: 0 auto;
